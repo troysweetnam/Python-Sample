@@ -1,4 +1,4 @@
-e# Troy Sweetnam, tsweetna@usc.edu
+# Troy Sweetnam, tsweetna@usc.edu
 # ITP 115, Fall 2021
 # Section: 31856
 # Final Project
