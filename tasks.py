@@ -1,7 +1,3 @@
-# Troy Sweetnam, tsweetna@usc.edu
-# ITP 115, Fall 2021
-# Section: 31856
-# Final Project
 # tasks.py
 # Description:
 # This program sets up the functions createListOfParks, getDate, and getLargestPark to be used in our main function and interface file,
