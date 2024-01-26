@@ -1,4 +1,4 @@
-The linked files are from a project completed for a Programming in Python course I took while completing my ISE degree at the University of Southern California. These files allow the user to interact with a database of the 63 U.S. National Parks and request information from the index. Users can search for parks by state, size, or unique keywords.There are three files; main.py, interface.py, and tasks.py, which are summarized in the descriptions below.
+These files allow the user to interact with a database of the 63 U.S. National Parks and request information from the index. Users can search for parks by state, size, or unique keywords.There are three files; main.py, interface.py, and tasks.py, which are summarized in the descriptions below.
 
 TASKS.PY
 - This file defines three functions that are used within our main.py and interface.py files
