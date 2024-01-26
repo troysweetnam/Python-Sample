@@ -1,7 +1,3 @@
-# Troy Sweetnam, tsweetna@usc.edu
-# ITP 115, Fall 2021
-# Section: 31856
-# Final Project
 # main_sweetnam_troy.py
 # Description: This is our main function for the national parks index, it allows the user to interact with teh index and see certain
 # information about national parks by state, by search, or by size.
