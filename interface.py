@@ -1,7 +1,3 @@
-# Troy Sweetnam, tsweetna@usc.edu
-# ITP 115, Fall 2021
-# Section: 31856
-# Final Project
 # interface.py
 # Description:
 # This program sets up the user interface for our national parks index, it allows for the user to choose an option from the menu
